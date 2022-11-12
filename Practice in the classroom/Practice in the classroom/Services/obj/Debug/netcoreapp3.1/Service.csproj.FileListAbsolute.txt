@@ -1,0 +1,13 @@
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\bin\Debug\netcoreapp3.1\Service.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\bin\Debug\netcoreapp3.1\Service.pdb
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\bin\Debug\netcoreapp3.1\Domain.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\obj\Debug\netcoreapp3.1\Service.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Services\obj\Debug\netcoreapp3.1\Service.pdb

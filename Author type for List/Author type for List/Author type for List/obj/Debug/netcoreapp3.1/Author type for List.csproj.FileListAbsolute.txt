@@ -1,0 +1,14 @@
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\bin\Debug\netcoreapp3.1\Author type for List.exe
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\bin\Debug\netcoreapp3.1\Author type for List.deps.json
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\bin\Debug\netcoreapp3.1\Author type for List.runtimeconfig.json
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\bin\Debug\netcoreapp3.1\Author type for List.runtimeconfig.dev.json
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\bin\Debug\netcoreapp3.1\Author type for List.dll
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\bin\Debug\netcoreapp3.1\Author type for List.pdb
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\obj\Debug\netcoreapp3.1\Author type for List.csproj.AssemblyReference.cache
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\obj\Debug\netcoreapp3.1\Author type for List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\obj\Debug\netcoreapp3.1\Author type for List.AssemblyInfoInputs.cache
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\obj\Debug\netcoreapp3.1\Author type for List.AssemblyInfo.cs
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\obj\Debug\netcoreapp3.1\Author type for List.csproj.CoreCompileInputs.cache
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\obj\Debug\netcoreapp3.1\Author type for List.dll
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\obj\Debug\netcoreapp3.1\Author type for List.pdb
+D:\C#\Collections\Author type for List\Author type for List\Author type for List\obj\Debug\netcoreapp3.1\Author type for List.genruntimeconfig.cache

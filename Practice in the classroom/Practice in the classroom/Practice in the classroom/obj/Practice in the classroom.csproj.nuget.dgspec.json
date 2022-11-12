@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom.csproj": {}
+  },
+  "projects": {
+    "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Anar\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom.csproj",
+        "projectName": "Practice in the classroom",
+        "projectPath": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom.csproj",
+        "packagesPath": "C:\\Users\\Anar\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Practice in the classroom\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Services\\Service.csproj": {
+                "projectPath": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Services\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Services\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Services\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Services\\Service.csproj",
+        "packagesPath": "C:\\Users\\Anar\\.nuget\\packages\\",
+        "outputPath": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\C#\\Collections\\Practice in the classroom\\Practice in the classroom\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

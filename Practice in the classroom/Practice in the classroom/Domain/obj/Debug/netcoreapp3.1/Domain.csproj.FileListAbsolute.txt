@@ -1,0 +1,10 @@
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

@@ -1,0 +1,19 @@
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.exe
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.deps.json
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.runtimeconfig.json
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.runtimeconfig.dev.json
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Practice in the classroom.pdb
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Domain.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Service.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Service.pdb
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.csproj.AssemblyReference.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.AssemblyInfoInputs.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.AssemblyInfo.cs
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.csproj.CoreCompileInputs.cache
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.csproj.CopyComplete
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.dll
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.pdb
+D:\C#\Collections\Practice in the classroom\Practice in the classroom\Practice in the classroom\obj\Debug\netcoreapp3.1\Practice in the classroom.genruntimeconfig.cache
